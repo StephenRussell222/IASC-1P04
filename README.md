@@ -8,4 +8,4 @@ Playtest my game [here]
 
 ## Prototype
 
-Play the prototype [here](prototype/SR20FJ_Deep Sea Adventures_2020.html)
+Play the prototype [here](Prototype/SR20FJ_Deep Sea Adventures_2020.html)
