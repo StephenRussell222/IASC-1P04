@@ -1,4 +1,4 @@
-# Deep Sea Treasure
+# Deep Sea Adventures
 ## Playtest
 
 ## Play the game
