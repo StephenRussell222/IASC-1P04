@@ -2,9 +2,9 @@
 
 Welcome to the website for my TWINE Game, created for the course IASC 1P04 at Brock University
 
-## playtest
+## Playtest
 
-Playtest my game [here]
+Playtest my game [here](playtest/playtest)
 
 ## Prototype
 
