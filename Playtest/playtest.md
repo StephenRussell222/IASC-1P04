@@ -2,7 +2,8 @@
 ## Playtest
 
 ## Play the game
-Play the game prototype [here](https://stephenrussell222.github.io/IASC-1P04/)
+Play the game prototype [here](https://stephenrussell222.github.io/IASC-1P04/Prototype/SR20FJ_Deep%20Sea%20Adventures_2020.html)
+
 
 ## Complete the playtest survey
 
