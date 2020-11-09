@@ -8,4 +8,4 @@ Playtest my game [here](playtest/playtest)
 
 ## Prototype
 
-Play the prototype [here](Prototype/SR20FJ_Deep Sea Adventures_2020.html)
+Play the prototype [here](../Prototype/SR20FJ_Deep Sea Adventures_2020.html)
