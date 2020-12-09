@@ -9,7 +9,7 @@ Welcome to the website for my TWINE Game, created for the course IASC 1P04 at Br
 
 ## Play now
 
-Play Deep Sea Adventures[here](Final_Build/Deep Sea Adventures final build.html)
+Play Deep Sea Adventures [here](Final_Build/Deep Sea Adventures final build.html)
 
 ### Playtest
 
